@@ -160,4 +160,4 @@
 	tree = log --oneline --all --decorate --graph
 	co = checkout
 [credential]
-	helper = osxkeychain
+	helper = store
